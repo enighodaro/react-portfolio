@@ -1,0 +1,2 @@
+I'm using .jsx extension because I'm going to use emi for shortcuts. \
+if it's a js extension, it'll be harder to use emit. 
